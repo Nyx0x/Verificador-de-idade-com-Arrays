@@ -20,7 +20,7 @@ namespace SegurancaBombado
         Console.WriteLine("Segurança: ...Quantos anos você tem?");
 
         // 2. Leitura e conversão
-        string textoDigitado = Console.ReadLine();
+        string textoDigitado = Console.ReadLine() ?? "";
 
         // O int.Parse quebra se digitarem texto
         // Mas assumindo que o usuário digite o número da idade

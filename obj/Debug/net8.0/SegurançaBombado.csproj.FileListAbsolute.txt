@@ -12,3 +12,4 @@
 /home/nyx/C#/SegurançaBombado/obj/Debug/net8.0/SegurançaBombado.pdb
 /home/nyx/C#/SegurançaBombado/obj/Debug/net8.0/SegurançaBombado.genruntimeconfig.cache
 /home/nyx/C#/SegurançaBombado/obj/Debug/net8.0/ref/SegurançaBombado.dll
+/home/nyx/C#/SegurançaBombado/obj/Debug/net8.0/SegurançaBombado.sourcelink.json
